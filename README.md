@@ -1,11 +1,11 @@
 # Hi, I'm Peace Amhanesi 👋
 
-🎓 **Recent CS graduate** and a **software engineer who ships** — full-stack,
-AI/ML, and data-driven products. I take ideas all the way to something real,
-tested, and deployed: a live web app, a native iOS app, a research benchmark
-with a written-up result.
+🎓 **Recent Computer & Information Science graduate** and a **software engineer
+who ships** — full-stack, AI/ML, and data-driven products. I take ideas all the
+way to something real, tested, and deployed: a live web app, a native iOS app, a
+research benchmark with a written-up result.
 
-- 💼 **Open to software engineering / ML roles** — full-stack, backend, or applied AI.
+- 💼 **Open to software engineering, applied-AI, and AI research roles** — full-stack, backend, or ML.
 - 🔭 I build end-to-end: design → code → **automated tests + CI** → deploy.
 - 🛠️ Every project below is genuinely **shipped and tested**, not a tutorial clone.
 - ⚙️ Comfortable across **Python, Swift, Flask, SwiftUI, PostgreSQL, Docker**.
@@ -55,8 +55,8 @@ with live in-play scores, charts, and a data layer covered by **tests + CI**.
 
 ## 📫 Let's connect
 
-I'm actively looking for **software engineering and applied-AI opportunities**.
-Happy to walk through any of these projects.
+I'm actively looking for **software engineering, applied-AI, and AI research
+opportunities**. Happy to walk through any of these projects.
 
 - ✉️ **amhanesipeace21@gmail.com**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/peace-amhanesi-a445ab232)**
