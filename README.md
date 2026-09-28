@@ -1,13 +1,16 @@
 # Hi, I'm Peace Amhanesi 👋
 
-**Builder across full-stack, AI/ML, and data-driven products.** I like taking an
-idea all the way to something real, tested, and shipped — whether that's a
-deployed web app, a native iOS app, or a research benchmark with a written-up
-result.
+🎓 **Recent CS graduate** and a **software engineer who ships** — full-stack,
+AI/ML, and data-driven products. I take ideas all the way to something real,
+tested, and deployed: a live web app, a native iOS app, a research benchmark
+with a written-up result.
 
-- 🔭 I build end-to-end: design → code → **tests + CI** → deploy.
-- 🌱 Currently going deep on responsible-AI evaluation and native iOS.
+- 💼 **Open to software engineering / ML roles** — full-stack, backend, or applied AI.
+- 🔭 I build end-to-end: design → code → **automated tests + CI** → deploy.
+- 🛠️ Every project below is genuinely **shipped and tested**, not a tutorial clone.
 - ⚙️ Comfortable across **Python, Swift, Flask, SwiftUI, PostgreSQL, Docker**.
+
+📫 **amhanesipeace21@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/peace-amhanesi-a445ab232)
 
 ---
 
@@ -50,10 +53,13 @@ with live in-play scores, charts, and a data layer covered by **tests + CI**.
 
 ---
 
-## 📫 Reach me
+## 📫 Let's connect
 
-- ✉️ amhanesipeace21@gmail.com
-- 💼 LinkedIn: _add your link_
+I'm actively looking for **software engineering and applied-AI opportunities**.
+Happy to walk through any of these projects.
 
-<sub>Every project above was built end-to-end with tests and CI — I care about
-shipping things that actually work.</sub>
+- ✉️ **amhanesipeace21@gmail.com**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/peace-amhanesi-a445ab232)**
+
+<sub>Every project above was built end-to-end with automated tests and CI — I care
+about shipping things that actually work.</sub>
